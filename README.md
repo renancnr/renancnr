@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋 My name is Renan carneiro, and I'm a Estudande de TI </h2>
+<h2 data-importer="text" align="left">Hi 👋 My name is Renan carneiro, and I'm a Estudante de TI </h2>
 
 ###
 
